@@ -4,4 +4,4 @@ title: Vue CLI 3.0 Prerender Guide
 ---
 
 
-Deneme
+Coming soon...
